@@ -1,1 +1,1 @@
-# 2016-pnas
+Zhu, Kai, Nona R Chiariello, Todd Tobeck, Tadashi Fukami, and Christopher B Field. “Nonlinear, Interacting Responses to Climate Limit Grassland Production under Global Change.” Proceedings of the National Academy of Sciences 113, no. 38 (2016): 10589–94. https://doi.org/10.1073/pnas.1606734113.
