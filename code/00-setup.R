@@ -7,7 +7,7 @@ theme_set(theme_bw())
 library(plotrix)
 library(lme4)
 
-in.dir <- "data-raw/"
+in.dir <- "data/"
 out.dir <- "figures/"
 
 grp.nm <- c("NPP", "ANPP", "BNPP")
